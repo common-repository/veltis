@@ -1,0 +1,43 @@
+.veltis-success {
+    color: #00c900;
+    margin-bottom: 20px;
+    background-color: #eafdef;
+    padding: 13px;
+}
+
+.veltis-info {
+    margin-bottom: 20px;
+    background-color: rgb(222, 230, 255);
+    border-left: 4px solid orange;
+    padding: 13px;
+}
+
+#veltis-settings {
+    border-color: orange;
+    background: white;
+    padding:20px;
+}
+
+.veltis-error {
+    color: red;
+    margin-bottom: 20px;
+    background-color: #ffe7ba;
+    padding: 13px;
+}
+
+.veltis-settings-container {
+    padding:20px;
+}
+
+#veltis-logo {
+    width:250px!important;
+    margin-left:-20px;
+}
+
+.veltis-register {
+    color: blue;
+    margin-bottom: 20px;
+    margin-top:20px;
+    background-color: #ffe7ba;
+    padding: 13px;
+}
